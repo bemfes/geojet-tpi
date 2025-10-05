@@ -3552,11 +3552,11 @@ body {
   height: 30px;
 }
 
-.vedart-job-sec__btn_open {
+.read-more-btn_open {
   color:#2C2C2C;
 }
 
-.vedart-job-sec__btn_open::after {
+.read-more-btn_open::after {
     background: url('../icons/new-vedart-arrow-balck-down.svg') center/cover no-repeat;
 
 }

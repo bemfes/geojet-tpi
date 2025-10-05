@@ -103,20 +103,7 @@ if (complexMethodsBtn) {
     })
 }
 
-// const vedartJobBtn = document.querySelector('.vedart-job-sec__btn');
-// const vedartJobList = document.querySelector('.vedart-job-sec__list');
 
-// if (vedartJobBtn) {
-//     vedartJobBtn.addEventListener('click', () => {
-//         if (vedartJobList.style.maxHeight) {
-//             vedartJobList.style.maxHeight = null
-//             vedartJobBtn.classList.remove('vedart-job-sec__btn_open')
-//         } else {
-//             vedartJobList.style.maxHeight = vedartJobList.scrollHeight + 'px'
-//             vedartJobBtn.classList.add('vedart-job-sec__btn_open')
-//         }
-//     })
-// }
 
 const readMoreBtn = document.querySelectorAll('.read-more-btn');
 
